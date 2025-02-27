@@ -9,15 +9,14 @@ A simple Currency Converter built with React.js that allows users to convert cur
 ✅ Supports multiple currency options
 ✅ Mobile-friendly and responsive design
 
-
-
 🛠 Tech Stack
 React.js – Core framework
 Tailwind CSS – Styling
 Custom Hooks (useCurrencyInfo) – Fetching exchange rates
 Currency API – @fawazahmed0/currency-api
+
 📸 Screenshots
-(Add screenshots of your app here!)
+![Image](https://github.com/user-attachments/assets/2ac23e6d-d218-4820-8489-8c126d5686b6)
 
 🏗 Installation & Setup
 1️⃣ Clone the repository
@@ -25,7 +24,7 @@ Currency API – @fawazahmed0/currency-api
 sh
 Copy
 Edit
-git clone https://github.com/yourusername/currency-converter.git
+git clone https://github.com/tushar-kr-jaiswal/currencyConverter
 cd currency-converter
 2️⃣ Install dependencies
 
